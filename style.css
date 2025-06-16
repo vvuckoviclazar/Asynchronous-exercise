@@ -132,3 +132,7 @@ li:hover {
   font-size: 20rem;
   margin-bottom: 15rem;
 }
+
+.selected {
+  border: 1rem solid rgb(212, 69, 225);
+}
